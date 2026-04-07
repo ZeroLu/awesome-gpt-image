@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Assets (if you add local images)
+# assets/*.png
+# assets/*.jpg
+
+# Logs
+*.log
