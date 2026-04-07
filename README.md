@@ -79,13 +79,43 @@ gameplay screenshot of a lion fighting against an npc in gta san andreas
 
 Prompts focused on generating ultra-realistic images with authentic photography characteristics.
 
-### Monitor Photography Aesthetic
+### RAW iPhone Quality - Subway Station
 
-**Key elements for realistic monitor/screen capture looks:**
-- Close-up shot from stationary 4k monitor
-- Slight blurriness (handheld camera effect)
-- Wide, bright environment
-- Realistic details and textures
+| Image 1 | Image 2 |
+|:-------:|:-------:|
+| ![Image 1](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large) |
+
+**Prompt:**
+```
+Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA, a momentary blur. The subway is in motion. In front of the subway, there is an elderly woman and man.
+```
+
+**Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2041192232623972441)
+
+---
+
+### YouTube Time Travel Screenshot
+
+| Image 1 | Image 2 | Image 3 |
+|:-------:|:-------:|:-------:|
+| ![Image 1](https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFB0ZZSXkAAwp1Z?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFB0Zr5WAAAXIQg?format=jpg&name=large) |
+
+**Prompt:**
+```
+Screenshot of a YouTube video showing someone who time-traveled to the Middle Ages
+```
+
+**Source:** [@flowersslop](https://x.com/flowersslop/status/2040261168460108213)
+
+---
+
+### GPT Image 2 Leaked Examples
+
+| Image 1 | Image 2 | Image 3 | Image 4 |
+|:-------:|:-------:|:-------:|:-------:|
+| ![Image 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Image 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
+
+**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
 
 ---
 
