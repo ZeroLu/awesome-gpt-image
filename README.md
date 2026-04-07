@@ -18,23 +18,24 @@ GPT Image 2 represents a significant upgrade from version 1.5, offering:
 
 ## Table of Contents
 
-- [Game & Entertainment](#1-game--entertainment)
-- [Photorealism](#2-photorealism)
-- [Creative Experiments](#3-creative-experiments)
-- [Resources](#4-resources)
-- [Contributing](#5-contributing)
+- [Model Comparisons](#1-model-comparisons)
+- [Game & Entertainment](#2-game--entertainment)
+- [Photorealism](#3-photorealism)
+- [Creative Experiments](#4-creative-experiments)
+- [Resources](#5-resources)
+- [Contributing](#6-contributing)
 
 ---
 
-## 1. Game & Entertainment
+## 1. Model Comparisons
 
-Prompts that leverage GPT Image 2's ability to replicate specific game aesthetics and generate authentic-looking gameplay screenshots.
+Side-by-side comparisons showing GPT Image 2 vs other models (Nano Banana 2, GPT Image 1.5).
 
-### GTA 6 Style In-Game Footage
+### Nano Banana 2 vs GPT-Image - GTA 6 Style
 
-| Image 1 | Image 2 |
-|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large) |
+| Nano Banana 2 | GPT-Image |
+|:-------------:|:---------:|
+| ![Nano Banana 2](https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large) | ![GPT-Image](https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large) |
 
 **Prompt:**
 ```
@@ -45,45 +46,28 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ---
 
-### Zelda: Tears of the Kingdom Style
+### GPT Image 1.5 vs GPT Image 2 - GTA San Andreas
 
-| Image 1 | Image 2 | Image 3 | Image 4 |
-|:-------:|:-------:|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFJzGO8WMAA_HBa?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFJzy-QaYAA2oD-?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFJz0LgXQAE0ZBu?format=jpg&name=large) | ![Image 4](https://pbs.twimg.com/media/HFKKnpZaYAAWDj6?format=jpg&name=large) |
-
-**Prompt:**
-```
-In the game Zelda totk link is in a e531 series train made by him
-```
-
-**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040820686751432990)
-
----
-
-### GTA San Andreas Gameplay Screenshot
-
-| Image 1 | Image 2 |
-|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large) |
+| GPT Image 1.5 | GPT Image 2 |
+|:-------------:|:-----------:|
+| ![GPT Image 1.5](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large) | ![GPT Image 2](https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large) |
 
 **Prompt:**
 ```
 gameplay screenshot of a lion fighting against an npc in gta san andreas
 ```
 
+**Comment:** 1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.
+
 **Source:** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
 
 ---
 
-## 2. Photorealism
+### Nano Banana 2 vs GPT-Image - RAW Subway Station
 
-Prompts focused on generating ultra-realistic images with authentic photography characteristics.
-
-### RAW iPhone Quality - Subway Station
-
-| Image 1 | Image 2 |
-|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large) |
+| Nano Banana 2 | GPT-Image |
+|:-------------:|:---------:|
+| ![Nano Banana 2](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large) | ![GPT-Image](https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large) |
 
 **Prompt:**
 ```
@@ -94,11 +78,34 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 
 ---
 
+## 2. Game & Entertainment
+
+Prompts that leverage GPT Image 2's ability to replicate specific game aesthetics and generate authentic-looking gameplay screenshots.
+
+### Zelda: Tears of the Kingdom Style
+
+| Scene 1 | Scene 2 | Scene 3 | Scene 4 |
+|:-------:|:-------:|:-------:|:-------:|
+| ![Scene 1](https://pbs.twimg.com/media/HFJzGO8WMAA_HBa?format=jpg&name=large) | ![Scene 2](https://pbs.twimg.com/media/HFJzy-QaYAA2oD-?format=jpg&name=large) | ![Scene 3](https://pbs.twimg.com/media/HFJz0LgXQAE0ZBu?format=jpg&name=large) | ![Scene 4](https://pbs.twimg.com/media/HFKKnpZaYAAWDj6?format=jpg&name=large) |
+
+**Prompt:**
+```
+In the game Zelda totk link is in a e531 series train made by him
+```
+
+**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040820686751432990)
+
+---
+
+## 3. Photorealism
+
+Prompts focused on generating ultra-realistic images with authentic photography characteristics.
+
 ### YouTube Time Travel Screenshot
 
-| Image 1 | Image 2 | Image 3 |
+| Frame 1 | Frame 2 | Frame 3 |
 |:-------:|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFB0ZZSXkAAwp1Z?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFB0Zr5WAAAXIQg?format=jpg&name=large) |
+| ![Frame 1](https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large) | ![Frame 2](https://pbs.twimg.com/media/HFB0ZZSXkAAwp1Z?format=jpg&name=large) | ![Frame 3](https://pbs.twimg.com/media/HFB0Zr5WAAAXIQg?format=jpg&name=large) |
 
 **Prompt:**
 ```
@@ -111,15 +118,17 @@ Screenshot of a YouTube video showing someone who time-traveled to the Middle Ag
 
 ### GPT Image 2 Leaked Examples
 
-| Image 1 | Image 2 | Image 3 | Image 4 |
-|:-------:|:-------:|:-------:|:-------:|
-| ![Image 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Image 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
+| Example 1 | Example 2 | Example 3 | Example 4 |
+|:---------:|:---------:|:---------:|:---------:|
+| ![Example 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Example 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Example 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Example 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
+
+**Comment:** GPT Image 2 leaked. When were you when OpenAI solved yellow filter in GPT Image? Here are some cool outputs from the model, coming soon. This looks like it's going to be the best image model yet!
 
 **Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
 
 ---
 
-## 3. Creative Experiments
+## 4. Creative Experiments
 
 Pushing the boundaries of what GPT Image 2 can create.
 
@@ -132,7 +141,7 @@ When testing GPT Image 2 against other models:
 
 ---
 
-## 4. Resources
+## 5. Resources
 
 ### Official Resources
 
@@ -146,7 +155,7 @@ When testing GPT Image 2 against other models:
 
 ---
 
-## 5. Contributing
+## 6. Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
