@@ -32,7 +32,9 @@ Prompts that leverage GPT Image 2's ability to replicate specific game aesthetic
 
 ### GTA 6 Style In-Game Footage
 
-![GTA 6 Style](https://x.com/WolfRiccardo/status/2041187268711321735/photo/1)
+| Image 1 | Image 2 |
+|:-------:|:-------:|
+| ![Image 1](https://x.com/WolfRiccardo/status/2041187268711321735/photo/1) | ![Image 2](https://x.com/WolfRiccardo/status/2041187268711321735/photo/2) |
 
 **Prompt:**
 ```
@@ -45,7 +47,9 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ### Zelda: Tears of the Kingdom Style
 
-![Zelda TOTK](https://x.com/marmaduke091/status/2040820686751432990/photo/1)
+| Image |
+|:-----:|
+| ![Image](https://x.com/marmaduke091/status/2040820686751432990/photo/1) |
 
 **Prompt:**
 ```
@@ -58,7 +62,9 @@ In the game Zelda totk link is in a e531 series train made by him
 
 ### GTA San Andreas Gameplay Screenshot
 
-![GTA San Andreas](https://x.com/flowersslop/status/2040693687500341568/photo/1)
+| Image 1 | Image 2 |
+|:-------:|:-------:|
+| ![Image 1](https://x.com/flowersslop/status/2040693687500341568/photo/1) | ![Image 2](https://x.com/flowersslop/status/2040693687500341568/photo/2) |
 
 **Prompt:**
 ```
