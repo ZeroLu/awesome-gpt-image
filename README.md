@@ -1,6 +1,7 @@
 # Awesome GPT Image 2
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)
 
 A curated collection of the best GPT Image 2 prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of OpenAI's GPT Image 2 model.
 
@@ -18,20 +19,20 @@ GPT Image 2 represents a significant upgrade from version 1.5, offering:
 
 ## Table of Contents
 
-- [Model Comparisons](#1-model-comparisons)
-- [Game & Entertainment](#2-game--entertainment)
-- [Photorealism](#3-photorealism)
-- [Creative Experiments](#4-creative-experiments)
-- [Resources](#5-resources)
-- [Contributing](#6-contributing)
+- [🎮 Game & Entertainment](#-game--entertainment)
+- [📷 Photorealism & Photography](#-photorealism--photography)
+- [🎬 Video & Animation](#-video--animation)
+- [📱 Social Media & Screenshots](#-social-media--screenshots)
+- [📊 Resources](#-resources)
+- [🤝 Contributing](#-contributing)
 
 ---
 
-## 1. Model Comparisons
+## 🎮 Game & Entertainment
 
-Side-by-side comparisons showing GPT Image 2 vs other models (Nano Banana 2, GPT Image 1.5).
+Prompts that leverage GPT Image 2's ability to replicate specific game aesthetics and generate authentic-looking gameplay screenshots.
 
-### Nano Banana 2 vs GPT-Image - GTA 6 Style
+### GTA 6 Style In-Game Footage
 
 | Nano Banana 2 | GPT-Image |
 |:-------------:|:---------:|
@@ -45,42 +46,6 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 **Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2041187268711321735)
 
 ---
-
-### GPT Image 1.5 vs GPT Image 2 - GTA San Andreas
-
-| GPT Image 1.5 | GPT Image 2 |
-|:-------------:|:-----------:|
-| ![GPT Image 1.5](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large) | ![GPT Image 2](https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large) |
-
-**Prompt:**
-```
-gameplay screenshot of a lion fighting against an npc in gta san andreas
-```
-
-**Comment:** 1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.
-
-**Source:** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
-
----
-
-### Nano Banana 2 vs GPT-Image - RAW Subway Station
-
-| Nano Banana 2 | GPT-Image |
-|:-------------:|:---------:|
-| ![Nano Banana 2](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large) | ![GPT-Image](https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large) |
-
-**Prompt:**
-```
-Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA, a momentary blur. The subway is in motion. In front of the subway, there is an elderly woman and man.
-```
-
-**Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2041192232623972441)
-
----
-
-## 2. Game & Entertainment
-
-Prompts that leverage GPT Image 2's ability to replicate specific game aesthetics and generate authentic-looking gameplay screenshots.
 
 ### Zelda: Tears of the Kingdom Style
 
@@ -97,9 +62,57 @@ In the game Zelda totk link is in a e531 series train made by him
 
 ---
 
-## 3. Photorealism
+### GTA San Andreas Gameplay Screenshot
+
+| GPT Image 1.5 | GPT Image 2 |
+|:-------------:|:-----------:|
+| ![GPT Image 1.5](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large) | ![GPT Image 2](https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large) |
+
+**Prompt:**
+```
+gameplay screenshot of a lion fighting against an npc in gta san andreas
+```
+
+**Comment:** 1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.
+
+**Source:** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
+
+---
+
+## 📷 Photorealism & Photography
 
 Prompts focused on generating ultra-realistic images with authentic photography characteristics.
+
+### RAW iPhone Quality - Subway Station
+
+| Nano Banana 2 | GPT-Image |
+|:-------------:|:---------:|
+| ![Nano Banana 2](https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large) | ![GPT-Image](https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large) |
+
+**Prompt:**
+```
+Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA, a momentary blur. The subway is in motion. In front of the subway, there is an elderly woman and man.
+```
+
+**Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2041192232623972441)
+
+---
+
+### GPT Image 2 Leaked Examples
+
+| Example 1 | Example 2 | Example 3 | Example 4 |
+|:---------:|:---------:|:---------:|:---------:|
+| ![Example 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Example 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Example 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Example 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
+
+**Comment:** GPT Image 2 leaked. When were you when OpenAI solved yellow filter in GPT Image? Here are some cool outputs from the model, coming soon. This looks like it's going to be the best image model yet!
+
+**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
+
+---
+
+## 🎬 Video & Animation
+
+Prompts for generating video-like content and animated sequences.
 
 ### YouTube Time Travel Screenshot
 
@@ -116,32 +129,13 @@ Screenshot of a YouTube video showing someone who time-traveled to the Middle Ag
 
 ---
 
-### GPT Image 2 Leaked Examples
+## 📱 Social Media & Screenshots
 
-| Example 1 | Example 2 | Example 3 | Example 4 |
-|:---------:|:---------:|:---------:|:---------:|
-| ![Example 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Example 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Example 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Example 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
-
-**Comment:** GPT Image 2 leaked. When were you when OpenAI solved yellow filter in GPT Image? Here are some cool outputs from the model, coming soon. This looks like it's going to be the best image model yet!
-
-**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
+Prompts for creating authentic social media and screenshot-style content.
 
 ---
 
-## 4. Creative Experiments
-
-Pushing the boundaries of what GPT Image 2 can create.
-
-### Comparison Testing
-
-When testing GPT Image 2 against other models:
-- Use identical prompts for fair comparison
-- Test specific domains (games, portraits, products)
-- Note prompt adherence and detail accuracy
-
----
-
-## 5. Resources
+## 📊 Resources
 
 ### Official Resources
 
@@ -155,7 +149,7 @@ When testing GPT Image 2 against other models:
 
 ---
 
-## 6. Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -171,6 +165,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Provide the X/Twitter source link
 - Add example images when possible
 - Categorize appropriately
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.com/#ZeroLu/awesome-gpt-image&Date)
 
 ---
 
