@@ -34,7 +34,7 @@ Prompts that leverage GPT Image 2's ability to replicate specific game aesthetic
 
 | Image 1 | Image 2 |
 |:-------:|:-------:|
-| ![Image 1](https://x.com/WolfRiccardo/status/2041187268711321735/photo/1) | ![Image 2](https://x.com/WolfRiccardo/status/2041187268711321735/photo/2) |
+| ![Image 1](https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large) |
 
 **Prompt:**
 ```
@@ -47,9 +47,9 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ### Zelda: Tears of the Kingdom Style
 
-| Image |
-|:-----:|
-| ![Image](https://x.com/marmaduke091/status/2040820686751432990/photo/1) |
+| Image 1 | Image 2 | Image 3 | Image 4 |
+|:-------:|:-------:|:-------:|:-------:|
+| ![Image 1](https://pbs.twimg.com/media/HFJzGO8WMAA_HBa?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFJzy-QaYAA2oD-?format=jpg&name=large) | ![Image 3](https://pbs.twimg.com/media/HFJz0LgXQAE0ZBu?format=jpg&name=large) | ![Image 4](https://pbs.twimg.com/media/HFKKnpZaYAAWDj6?format=jpg&name=large) |
 
 **Prompt:**
 ```
@@ -64,7 +64,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 | Image 1 | Image 2 |
 |:-------:|:-------:|
-| ![Image 1](https://x.com/flowersslop/status/2040693687500341568/photo/1) | ![Image 2](https://x.com/flowersslop/status/2040693687500341568/photo/2) |
+| ![Image 1](https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large) | ![Image 2](https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large) |
 
 **Prompt:**
 ```
