@@ -168,7 +168,7 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 ### Black Myth: Wukong Game Scene
 | Nano Banana 2 | GPT-Image |
 |:-------------:|:---------:|
-| ![Nano Banana 2](images/image_1776389679_020.png) | ![GPT-Image](images/image_1776389679_016.jpg) |
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/49e41036-4ad4-4908-a3a8-88a2f28f1148" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/3e6a725a-a983-4556-93de-e4eb2ed135ed" /> |
 
 **Prompt:**
 ```
@@ -196,7 +196,7 @@ Generate a high-fidelity mobile e-commerce app homepage screenshot, referencing 
 ### Music Player Interface
 | Nano Banana 2 | GPT-Image |
 |:-------------:|:---------:|
-| ![Nano Banana 2](images/image_1776389679_025.png) | ![GPT-Image](images/image_1776389679_024.png) |
+| <img width="1080" height="1935" alt="image" src="https://github.com/user-attachments/assets/88f33c6a-c307-4e7a-af7e-5f692cbf41a1" /> | <img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/ee3d40db-3918-4974-8b82-68cd166c97b2" /> |
 
 **Prompt:**
 ```
@@ -206,7 +206,7 @@ Create a high-fidelity Chinese music app player interface screenshot, mobile por
 ---
 
 ### Douyin Live Stream Announcement
-| GPT-Image |
+| Left: GPT-Image, Right: Nano Banana 2 |
 |:---------:|
 | <img width="400" alt="image" src="https://github.com/user-attachments/assets/d335c2e8-8d2b-4d6a-9de2-afc4b9a8572a" /> |
 
