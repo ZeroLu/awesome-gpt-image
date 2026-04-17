@@ -74,6 +74,17 @@ High-end skincare e-commerce hero poster for \"澄光维稳精华\" (Clarifying 
 Prompts for creating ultra-realistic scenes with authentic photography characteristics and complex lighting.
 *Source: [卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)*
 
+### Celebrity in real life
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/45e4f24f-4f73-4426-947d-e6ed51291956" />
+
+**Prompt:**
+```
+Sam Altman, Donald Trump, and Elon Musk working behind the counter of a busy movie theater
+```
+
+Source: https://x.com/flowersslop/status/2044334054380552438
+
 ### Shopping Mall Documentary Photo
 <img width="1080" height="719" alt="image" src="https://github.com/user-attachments/assets/8fa6e45b-ce4f-4bc0-b0df-22bd4a7bad4e" />
 
@@ -98,6 +109,17 @@ Create an ultra-realistic urban street group photo at a convenience store entran
 
 ## 🎮 Game & Entertainment
 Prompts that leverage GPT Image 2's ability to replicate specific game aesthetics and generate authentic-looking gameplay screenshots.
+
+### Hitman Style In-Game Footage
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e89dc393-653c-42e7-87f8-cd7741640f12" />
+
+**Prompt:**
+```
+A Hitman level where you are in the OpenAI HQ and your mission is to steal GPT-6 without getting caught
+```
+
+**Source:** [@flowersslop](https://x.com/flowersslop/status/2044734896321532390)
 
 ### GTA 6 Style In-Game Footage
 | Nano Banana 2 | GPT-Image |
@@ -155,16 +177,6 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 
 ---
 
-### GPT Image 2 Leaked Examples
-| Example 1 | Example 2 | Example 3 | Example 4 |
-|:---------:|:---------:|:---------:|:---------:|
-| ![Example 1](https://pbs.twimg.com/media/HFC620JWsAA2T7i?format=jpg&name=large) | ![Example 2](https://pbs.twimg.com/media/HFC7LwgXwAAG3Zw?format=jpg&name=large) | ![Example 3](https://pbs.twimg.com/media/HFC7SMHa8AApIqW?format=jpg&name=large) | ![Example 4](https://pbs.twimg.com/media/HFC7TjyWUAAXRk9?format=jpg&name=large) |
-
-**Comment:** GPT Image 2 leaked. When were you when OpenAI solved yellow filter in GPT Image? Here are some cool outputs from the model, coming soon. This looks like it's going to be the best image model yet!
-**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
-
----
-
 ### Black Myth: Wukong Game Scene
 | Nano Banana 2 | GPT-Image |
 |:-------------:|:---------:|
@@ -180,6 +192,14 @@ Generate a Black Myth: Wukong game scene where Wukong is knocked away by Erlang 
 ## 📱 UI/UX & Interface Recreation
 Prompts for creating authentic-looking app interfaces, screenshots, and digital designs.
 *Source: [卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)*
+
+### Live streaming screenshot
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/be639d3b-617b-4332-98eb-4deb2484ac66" />
+
+**Prompt:**
+```
+Generate a screenshot of a TikTok live stream featuring a beautiful woman streaming.
+```
 
 ### E-commerce App Homepage
 | Nano Banana 2 | GPT-Image |
@@ -289,6 +309,18 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 
 ## 🎬 Video & Animation
 Prompts for generating video-like content and animated sequences.
+
+
+### Movie Collage
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/68495d40-f558-4d7a-aacf-40ef36264679" />
+
+**Prompt:**
+```
+entire superman movie image collage one shot in one output
+```
+
+**Source:** [@chetaslua](https://x.com/chetaslua/status/2044462992176386532)
+
 
 ### YouTube Time Travel Screenshot
 | Frame 1 | Frame 2 | Frame 3 |
