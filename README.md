@@ -24,7 +24,6 @@ GPT Image 2 represents a significant upgrade from version 1.5, offering:
 - [📰 Typography & Poster Design](#-typography--poster-design)
 - [🎭 Character & Consistency](#-character--consistency)
 - [🖼️ Image Editing & Style Transfer](#-image-editing--style-transfer)
-- [🧩 OpenNana Gallery Picks](#-opennana-gallery-picks)
 - [📊 Resources](#-resources)
 - [🤝 Contributing](#-contributing)
 
@@ -63,6 +62,24 @@ Create an ultra-realistic urban street group photo at a convenience store entran
 Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA, a momentary blur. The subway is in motion. In front of the subway, there is an elderly woman and man.
 ```
 **Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2041192232623972441)
+
+### Apple Park Keynote Crowd Shot
+<img width="500" alt="Apple Park Keynote Crowd Shot" src="assets/opennana/apple-park-tim-cook-keynote.jpg" />
+
+**Prompt:**
+```text
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/apple-park-tim-cook-keynote) | [@patrickassale](https://x.com/patrickassale/status/2044687244368441742)
+
+### Handwritten Notebook Photo
+<img width="500" alt="Handwritten Notebook Photo" src="assets/opennana/black-pen-handwritten-notes.jpg" />
+
+**Prompt:**
+```text
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/black-pen-handwritten-notes) | [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
 
 
 ### GPT Image 2 Leaked Examples
@@ -145,6 +162,15 @@ Prompts for creating authentic-looking app interfaces, social media posts, and d
 Generate a screenshot of a TikTok live stream featuring a beautiful woman streaming.
 ```
 
+### Douyin Livestream Screenshot
+<img width="400" alt="Douyin Livestream Screenshot" src="assets/opennana/liu-yifei-douyin-live-chat.jpg" />
+
+**Prompt:**
+```text
+9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/liu-yifei-douyin-live-chat) | [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
+
 ### YouTube Time Travel Screenshot
 | Frame 1 | Frame 2 | Frame 3 |
 |:-------:|:-------:|:-------:|
@@ -155,6 +181,15 @@ Generate a screenshot of a TikTok live stream featuring a beautiful woman stream
 Screenshot of a YouTube video showing someone who time-traveled to the Middle Ages
 ```
 **Source:** [@flowersslop](https://x.com/flowersslop/status/2040261168460108213)
+
+### Song Dynasty Social Media Feed
+<img width="400" alt="Song Dynasty Social Media Feed" src="assets/opennana/song-dynasty-cyber-social-feed.jpg" />
+
+**Prompt:**
+```text
+"Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/song-dynasty-cyber-social-feed) | [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
 
 
 ### E-commerce App Homepage
@@ -178,6 +213,29 @@ Generate a high-fidelity mobile e-commerce app homepage screenshot, referencing 
 Create a high-fidelity Chinese music app player interface screenshot, mobile portrait orientation, refined visuals, style close to modern streaming players. Overall dark mode, background from album cover's blurred diffused color, center is large square album cover with subtle shadow and rounded corners. Top status bar time 18:26. Navigation bar: back arrow left, center title \"正在播放\" (Now Playing), more options icon right. Page must include: Song name: \"海边的晚风\" (Evening Breeze by the Sea), Artist: \"林秋\" (Lin Qiu), Album: \"夏夜实验室\" (Summer Night Lab). Playback progress bar: current time 01:42, total length 04:18, draggable dot below progress bar. Control buttons: shuffle, previous, play/pause, next, repeat. Below: lyrics area showing 5-7 lines of scrolling lyrics, current line highlighted, others subdued. Further below: buttons row with like, comment, download, add to playlist, share. Page bottom: device casting and playback queue entry. Requirements: Lyrics layout must have authentic music player experience, dark mode layers, button icons, progress bar reflections and shadows must be realistic, natural Chinese-English number mixing, overall must look like directly publishable product interface, not Dribbble concept.
 ```
 *Source: [卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)*
+
+### Custom Style UI Design System
+<img width="500" alt="Custom Style UI Design System" src="assets/opennana/custom-style-ui-system.jpeg" />
+
+**Prompt:**
+```text
+Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/custom-style-ui-system) | [@stark_nico99](https://x.com/stark_nico99/status/2045836554451706125)
+
+### T-800 Taobao Product Detail Page
+<img width="500" alt="T-800 Taobao Product Detail Page" src="assets/opennana/terminator-taobao-page.jpeg" />
+
+**Prompt:**
+```text
+Generate image:
+Taobao product detail page of a T-800 robot, showing:
+front, side, and back three-view drawings of the robot,
+product price,
+product details,
+functions and usage scenarios
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/terminator-taobao-page) | [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 ---
 
@@ -215,6 +273,48 @@ Design a 3:4 vertical poster for a new Chinese trendy tea drink launch. Brand na
 Chinese infographic poster themed \"一杯咖啡 如何来到你手里\" (How a Cup of Coffee Reaches You). Style: High-end information design with educational and commercial visual appeal, clear layout with path arrows, data boxes, icons, simple illustrations, and modular cards. Color scheme: coffee brown, milk white, ink black, with accents of copper. Requirements: Balance of text and images with substantial information while maintaining aesthetics. Must include: 01 Planting (elevation 1200-2200m, suitable temperature 18-24°C, picking season Nov-March), 02 Processing (sun-dried, washed, honey process), 03 Roasting (light roast = brighter, medium roast = balanced, dark roast = richer), 04 Grinding (pour-over = coarse, espresso = fine, cold brew = medium-coarse), 05 Extraction (powder-water ratio, water temperature, time all affect flavor), flavor keywords (floral/citrus/nutty/caramel/chocolate/smoky). Fine print: \"适合用于咖啡入门科普与门店展示\". Focus on testing long infographics, numbers, temperatures, numbering, short descriptions, slash-separated flavor words, and multi-module layouts. Must look like high-quality display boards, not classroom PPTs.
 ```
 
+### Key Character Relationship Map
+<img width="500" alt="Key Character Relationship Map" src="assets/opennana/key-character-relationship-map.jpeg" />
+
+**Prompt:**
+```text
+Please generate a key character relationship diagram for "XXX".
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/key-character-relationship-map) | [@yihui_indie](https://x.com/yihui_indie/status/2045179926270361890)
+
+### Jingdezhen Blue-and-White Porcelain Diagram
+<img width="500" alt="Jingdezhen Blue-and-White Porcelain Diagram" src="assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg" />
+
+**Prompt:**
+```text
+Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram) | [@joshesye](https://x.com/joshesye/status/2045764695827562686)
+
+### Museum Catalog-Style Chinese Disassembly Infographic
+<img width="500" alt="Museum Catalog-Style Chinese Disassembly Infographic" src="assets/opennana/museum-level-chinese-disassembly-infographic.jpeg" />
+
+**Prompt:**
+```text
+Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
+
+The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
+
+The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
+
+The layout is fixed as:
+- Top: Chinese main title + subtitle + introduction
+- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
+- Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
+- Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
+- Bottom: Dressing order / composition flowchart + core feature summary
+
+If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
+
+Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/museum-level-chinese-disassembly-infographic) | [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
+
 ### High-End Skincare Product Poster
 <img width="540" height="352" alt="image_1776389679_010" src="https://github.com/user-attachments/assets/e1ddd78f-3b18-490f-bdd9-a4e5bbee147d" />
 
@@ -238,6 +338,21 @@ Prompts testing character consistency across multiple images and style replicati
 Create a 16-panel expression grid of a silver-haired, blue-eyed anime girl. Her face shape, hairstyle, and clothing must remain highly consistent across all panels. The 16 expressions should include: happy, sad, angry, surprised, shy, speechless, evil grin, contemplative, curious, proud, wronged, disdainful, confused, scared, crying, and a heart expression.
 ```
 *Source: [卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)*
+
+### Official Character Reference Sheet
+<img width="500" alt="Official Character Reference Sheet" src="assets/opennana/official-character-reference-sheet.jpeg" />
+
+**Prompt:**
+```text
+Based on this character and background, please create a character reference sheet similar to official setting materials.
+・Includes three-view drawings: front view, side view, and back view
+・Add variations of the character's facial expressions
+・Break down and display detailed parts of the clothing and equipment
+・Add a color palette
+・Include a brief explanation of the worldview setting
+・Overall, use an organized layout (white background, illustration style)
+```
+**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet) | [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
 
 ---
 
@@ -264,212 +379,6 @@ Theme: \"77 (cat's name) X KFC\" collaboration poster. Generate a collaboration 
 ```text
 Colorize this comic page and translate it into Chinese, placing the text in the original positions while maintaining composition and image details consistently
 ```
-
----
-
-## 🧩 OpenNana Gallery Picks
-
-Curated from the OpenNana ChatGPT prompt gallery on April 20, 2026. The examples below are especially useful for screenshot generation, infographic layouts, UI systems, and structured design outputs.
-
-### Social Media & Screenshot Prompts
-
-#### Douyin Livestream Screenshot
-
-![Douyin Livestream Screenshot](assets/opennana/liu-yifei-douyin-live-chat.jpg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/liu-yifei-douyin-live-chat) | [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
-
----
-
-#### Apple Park Keynote Crowd Shot
-
-![Apple Park Keynote Crowd Shot](assets/opennana/apple-park-tim-cook-keynote.jpg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/apple-park-tim-cook-keynote) | [@patrickassale](https://x.com/patrickassale/status/2044687244368441742)
-
----
-
-#### Song Dynasty Social Media Feed
-
-![Song Dynasty Social Media Feed](assets/opennana/song-dynasty-cyber-social-feed.jpg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-"Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/song-dynasty-cyber-social-feed) | [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
-
----
-
-#### Handwritten Notebook Photo
-
-![Handwritten Notebook Photo](assets/opennana/black-pen-handwritten-notes.jpg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/black-pen-handwritten-notes) | [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
-
----
-
-### Infographics & Design System Prompts
-
-#### Key Character Relationship Map
-
-![Key Character Relationship Map](assets/opennana/key-character-relationship-map.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Please generate a key character relationship diagram for "XXX".
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/key-character-relationship-map) | [@yihui_indie](https://x.com/yihui_indie/status/2045179926270361890)
-
----
-
-#### Custom Style UI Design System
-
-![Custom Style UI Design System](assets/opennana/custom-style-ui-system.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/custom-style-ui-system) | [@stark_nico99](https://x.com/stark_nico99/status/2045836554451706125)
-
----
-
-#### Jingdezhen Blue-and-White Porcelain Diagram
-
-![Jingdezhen Blue-and-White Porcelain Diagram](assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram) | [@joshesye](https://x.com/joshesye/status/2045764695827562686)
-
----
-
-#### Museum Catalog-Style Chinese Disassembly Infographic
-
-![Museum Catalog-Style Chinese Disassembly Infographic](assets/opennana/museum-level-chinese-disassembly-infographic.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
-
-The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
-
-The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
-
-The layout is fixed as:
-- Top: Chinese main title + subtitle + introduction
-- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
-- Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
-- Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
-- Bottom: Dressing order / composition flowchart + core feature summary
-
-If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
-
-Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/museum-level-chinese-disassembly-infographic) | [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
-
----
-
-### Character Sheets & Product Page Prompts
-
-#### Official Character Reference Sheet
-
-![Official Character Reference Sheet](assets/opennana/official-character-reference-sheet.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Based on this character and background, please create a character reference sheet similar to official setting materials.
-・Includes three-view drawings: front view, side view, and back view
-・Add variations of the character's facial expressions
-・Break down and display detailed parts of the clothing and equipment
-・Add a color palette
-・Include a brief explanation of the worldview setting
-・Overall, use an organized layout (white background, illustration style)
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet) | [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
-
----
-
-#### T-800 Taobao Product Detail Page
-
-![T-800 Taobao Product Detail Page](assets/opennana/terminator-taobao-page.jpeg)
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Generate image:
-Taobao product detail page of a T-800 robot, showing:
-front, side, and back three-view drawings of the robot,
-product price,
-product details,
-functions and usage scenarios
-```
-
-</details>
-
-**Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/terminator-taobao-page) | [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 ---
 
