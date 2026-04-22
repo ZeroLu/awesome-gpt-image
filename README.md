@@ -2,6 +2,8 @@
 
 Last updated on 260422 11:46:00 UTC
 
+<img width="100%" alt="Awesome GPT Image 2 Header Banner" src="assets/banner/readme-header-16x9.png" />
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)
 
