@@ -1,5 +1,7 @@
 # Awesome GPT Image 2 🕶️
 
+Last updated on 260422 11:46:00 UTC
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)
 

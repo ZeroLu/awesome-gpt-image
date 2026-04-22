@@ -1,0 +1,42 @@
+name: Update README Timestamp
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-timestamp:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Update README timestamp
+        run: |
+          timestamp="$(date -u '+%y%m%d %H:%M:%S UTC')"
+
+          if grep -q '^Last updated on ' README.md; then
+            sed -i "s/^Last updated on .*/Last updated on ${timestamp}/" README.md
+          else
+            sed -i "2iLast updated on ${timestamp}" README.md
+          fi
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README timestamp"
+          git push
