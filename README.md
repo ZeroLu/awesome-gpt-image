@@ -7,6 +7,8 @@ Last updated on 260424 03:26:42 UTC
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)
 
+Languages: [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md)
+
 A curated collection of the best GPT Image 2 prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of OpenAI's GPT Image 2 model.
 
 This repository focuses on high-fidelity image prompts sourced from X (Twitter) and the community. Whether you are looking for photorealistic game screenshots, stylized aesthetics, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of GPT Image 2.
