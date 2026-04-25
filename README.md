@@ -1,6 +1,6 @@
 # Awesome GPT Image 2 🕶️
 
-Last updated on 260424 03:26:42 UTC
+Last updated on 260425 07:31:30 UTC
 
 <img width="100%" alt="Awesome GPT Image 2 Header Banner" src="assets/banner/readme-header-16x9.png" />
 
@@ -110,6 +110,63 @@ A massive pile of rice, and on one single grain of rice there is tiny text that 
 ```
 **Source:** [@LexnLin](https://x.com/LexnLin/status/2046725722320888313) | [@LexnLin](https://x.com/LexnLin/status/2046675069678563385)
 
+### Japanese Onsen Ryokan Portrait
+<img width="500" alt="Japanese Onsen Ryokan Portrait" src="https://pbs.twimg.com/media/HGGYeo1bYAAXzcy?format=jpg&name=large" />
+
+**Prompt:**
+```text
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+
+### Basketball Court Direct Flash Portrait
+<img width="500" alt="Basketball Court Direct Flash Portrait" src="https://pbs.twimg.com/media/HGF8vR4bwAADpRi?format=jpg&name=large" />
+
+**Prompt:**
+```text
+35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
+
+### Korean Editorial Portrait with Soft Mist
+<img width="500" alt="Korean Editorial Portrait with Soft Mist" src="https://pbs.twimg.com/media/HGZlWQiakAAAlF_?format=jpg&name=large" />
+
+**Prompt:**
+```text
+9:16 vertical - editorial portrait, single subject soft black mist filter, subtle haze, gentle highlight bloom, muted tones minimal indoor space, clean background, slight texture young Korean woman, minimal makeup, natural skin texture outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements hair: slightly messy, natural volume pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted composition: subject slightly off-center, negative space present expression: calm, slightly distant, natural lips lighting: soft side light, gentle shadow falloff mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed quality: fine grain, slight softness, realistic look
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+
+### Subway Candid Photo
+<img width="500" alt="Subway Candid Photo" src="https://pbs.twimg.com/media/HGjjDYMaAAEsD7I?format=jpg&name=large" />
+
+**Prompt:**
+```text
+A beautiful woman looking at her phone on the subway; a candid photo.
+```
+**Source:** [@AntCaveClub](https://x.com/AntCaveClub/status/2047136306485133428) | [@underwoodxie96](https://x.com/underwoodxie96/status/2046894877112483997)
+
+### 90s Point-and-Shoot Aesthetic
+| Example 1 | Example 2 | Example 3 | Example 4 |
+|:---------:|:---------:|:---------:|:---------:|
+| ![Example 1](https://pbs.twimg.com/media/HGlDZasaMAAtLeg?format=jpg&name=large) | ![Example 2](https://pbs.twimg.com/media/HGlDZacbcAAZXTj?format=jpg&name=large) | ![Example 3](https://pbs.twimg.com/media/HGlDZafbIAA0iwq?format=jpg&name=large) | ![Example 4](https://pbs.twimg.com/media/HGlDZacbIAAdS9x?format=jpg&name=large) |
+
+**Prompt:**
+```text
+90s + point-and-shoot camera quality
+```
+**Source:** [@sunyunran](https://x.com/sunyunran/status/2047241649957503308)
+
+### 2003 Digital Camera Family Snapshot
+<img width="500" alt="2003 Digital Camera Family Snapshot" src="https://pbs.twimg.com/media/HGheYmVboAMO4ua?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Generate a photo from 2003, shot with a digital camera, of five-year-old me with my mom and dad in the courtyard of our residential compound in China.
+```
+**English Translation:** Original prompt: `生成一张 2003 年，用数码相机拍摄的，5 岁的我和爸爸妈妈在中国的家，小区院子里的照片。`
+**Source:** [@pangyusio](https://x.com/pangyusio/status/2046991223395950810)
+
 
 ### GPT Image 2 Leaked Examples
 | Example 1 | Example 2 | Example 3 | Example 4 |
@@ -206,6 +263,25 @@ gameplay screenshot of a lion fighting against an npc in gta san andreas
 ```
 **Comment:** 1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.
 **Source:** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
+
+### Japanese Social Game Gacha Screen
+<img width="500" alt="Japanese Social Game Gacha Screen" src="https://pbs.twimg.com/media/HGayF3iagAARTZ1?format=jpg&name=large" />
+
+**Prompt:**
+```text
+日本のソシャゲのガチャ画面を生成して、
+```
+**English Translation:** Generate a Japanese social game gacha screen.
+**Source:** [@the_wheel_2024](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+### GTA 6 Livestream Gameplay Screenshot
+<img width="500" alt="GTA 6 Livestream Gameplay Screenshot" src="https://pbs.twimg.com/media/HGdz3AJWYAA-1Er?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Speed is livestreaming Grand Theft Auto 6
+```
+**Source:** [@marmaduke091](https://x.com/marmaduke091/status/2046732155829604550)
 
 ---
 
@@ -347,10 +423,40 @@ functions and usage scenarios
 ```
 **Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/terminator-taobao-page) | [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
+### Xuanwu Gate Incident Moments Feed
+<img width="400" alt="Xuanwu Gate Incident Moments Feed" src="https://pbs.twimg.com/media/HGa2ROUX0AAadhO?format=jpg&name=large" />
+
+**Prompt:**
+```text
+玄武门之变的朋友圈
+```
+**English Translation:** A WeChat Moments-style feed for the Xuanwu Gate Incident.
+**Source:** [@Tz_2022](https://x.com/Tz_2022/status/2046523491940225366)
+
+### WeChat Chat Interface Smartphone Photo
+<img width="400" alt="WeChat Chat Interface Smartphone Photo" src="https://pbs.twimg.com/media/HGkJjV_aYAAKWes?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.
+```
+**English Translation:** Original prompt is in Chinese.
+**Source:** [@Gorden_Sun](https://x.com/Gorden_Sun/status/2047178119854145562)
+
 ---
 
 ## 🎬 Video, Animation & Collage
 Prompts for generating video-like content, animated sequences, and collages.
+
+### Ximen Qing 100-Panel Storyboard
+<img width="500" alt="Ximen Qing 100-Panel Storyboard" src="https://pbs.twimg.com/media/HGlTpVAboAAfXBg?format=jpg&name=large" />
+
+**Prompt:**
+```text
+48 宫格已经满足不了我了，我需要 100 宫格画面 8k
+```
+**English Translation:** A 48-panel grid is no longer enough for me. I need a 100-panel image, 8K.
+**Source:** [@ianneo_ai](https://x.com/ianneo_ai/status/2047260183769043119)
 
 ### Movie Collage
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/68495d40-f558-4d7a-aacf-40ef36264679" />
@@ -394,6 +500,28 @@ Prompts for creating high-quality typography, posters, and commercial designs wi
 Generate a 1980s propaganda poster. Use the exact slogan "热烈庆祝GPT-Image-2全量开放". Include Sam Altman, Dario Amodei, and Elon Musk, and give Dario Amodei a red scarf.
 ```
 **Source:** [@akokoi1](https://x.com/akokoi1/status/2046558658096738672)
+
+### The Deer and the Cauldron Character Poster
+<img width="500" alt="The Deer and the Cauldron Character Poster" src="https://pbs.twimg.com/media/HGi7FkTWwAE4P_C?format=jpg&name=large" />
+
+**Prompt:**
+```text
+生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
+```
+**English Translation:** Generate a poster for The Deer and the Cauldron, showing Wei Xiaobao with wife XXX. Stay faithful to the original description, exaggerate the distinguishing traits, and emphasize the woman's beauty and the man's temperament.
+**Source:** [@caiziboshi](https://x.com/caiziboshi/status/2047091751731519744)
+
+### Celebrity Car Endorsement Poster
+| Poster 1 | Poster 2 | Poster 3 | Poster 4 |
+|:--------:|:--------:|:--------:|:--------:|
+| ![Poster 1](https://pbs.twimg.com/media/HGg1SXrWgAAWtk1?format=jpg&name=large) | ![Poster 2](https://pbs.twimg.com/media/HGg1SXqXUAA_a8V?format=jpg&name=large) | ![Poster 3](https://pbs.twimg.com/media/HGg1SXrXUAAeHyu?format=jpg&name=large) | ![Poster 4](https://pbs.twimg.com/media/HGg1SXwWUAANtPS?format=jpg&name=large) |
+
+**Prompt:**
+```text
+XXX 代言 XXX 汽车海报
+```
+**English Translation:** XXX endorses XXX car poster.
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2046945118674932203)
 
 ### Chinese Tea Drink Product Launch Poster
 <img width="540" height="372" alt="image_1776389679_005" src="https://github.com/user-attachments/assets/552ba84c-41cb-401d-a1b0-ee13a6f7aa41" />
@@ -682,6 +810,16 @@ Create an image with a 10x10 grid of objects whose names all start with the lett
 ```
 **Source:** [@umesh_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
+### 100 Elements Scene Inventory
+<img width="500" alt="100 Elements Scene Inventory" src="https://pbs.twimg.com/media/HGbftRuacAAKgJB?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Create a scene with 100 elements, and list the 100 elements within the image.
+```
+**Comment:** Reconstructed from the tweet text: "I asked ChatGPT Image v2 for 100 elements in a scene. Not only did it create a scene with 100 items, but it also listed them within the image!"
+**Source:** [@umesh_ai](https://x.com/umesh_ai/status/2046569229189849228)
+
 ### 100 Technology Topics Grid
 <img width="500" alt="100 Technology Topics Grid" src="https://pbs.twimg.com/media/HGaW8ECaEAAq-LZ?format=jpg&name=large" />
 
@@ -746,6 +884,47 @@ Generate a three-day travel guide image for [city]
 ```
 **Source:** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046523494003851300)
 
+### Personal Color Analysis Diagram
+| Color Analysis 1 | Color Analysis 2 |
+|:----------------:|:----------------:|
+| ![Color Analysis 1](https://pbs.twimg.com/media/HGc_ayZXsAAd7Ur?format=jpg&name=large) | ![Color Analysis 2](https://pbs.twimg.com/media/HGlsDIoXcAA2WlL?format=jpg&name=large) |
+
+**Prompt:**
+```text
+Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.
+```
+**Source:** [@AngryTomtweets](https://x.com/AngryTomtweets/status/2046674296559313170) | [@LinusEkenstam](https://x.com/LinusEkenstam/status/2047286311791341576)
+
+### Polo Shirt Color Comparison Analysis
+<img width="500" alt="Polo Shirt Color Comparison Analysis" src="https://pbs.twimg.com/media/HGnE60ebYAAgm08?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips.
+```
+**Comment:** The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.
+**Source:** [@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+### Hairstyle Comparison Analysis
+<img width="500" alt="Hairstyle Comparison Analysis" src="https://pbs.twimg.com/media/HGnE60casAAcDLF?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Create a hairstyle analysis graphic using this picture. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and details about the haircut.
+```
+**Comment:** The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.
+**Source:** [@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+### Codex Chalkboard Article Visualization
+<img width="500" alt="Codex Chalkboard Article Visualization" src="https://pbs.twimg.com/media/HGecW48bsAAncRT?format=jpg&name=large" />
+
+**Prompt:**
+```text
+A picture says a thousand words. GPT Image 2 creates them.
+```
+**Comment:** The tweet text is the only visible prompt-like instruction; the result is a chalkboard-style long-form document visualization.
+**Source:** [@gabrielchua](https://x.com/gabrielchua/status/2046778728748048886)
+
 ### Character Relationship Diagram Poster
 | Demon Slayer | Naruto | Bleach | Dragon Ball |
 |:------------:|:-------:|:------:|:-----------:|
@@ -809,6 +988,18 @@ Based on this character and background, please create a character reference shee
 ## 🖼️ Image Editing & Style Transfer
 Prompts for image editing, style transfer, and reference-based generation.
 *Source: [卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)*
+
+### Pro Instagram Photo Enhancement
+| Before | After |
+|:------:|:-----:|
+| ![Before](https://pbs.twimg.com/media/HGkEY9qbAAAXGbj?format=jpg&name=large) | ![After](https://pbs.twimg.com/media/HGkEbUzbMAANbU9?format=jpg&name=large) |
+
+**Prompt:**
+```text
+Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.
+```
+**Comment:** Reconstructed from the post text, which compares an iPhone photo with a ChatGPT-enhanced result.
+**Source:** [@dezainaz_ceo](https://x.com/dezainaz_ceo/status/2047172512551977162)
 
 ### Pet Brand Collaboration Poster
 | Reference | GPT-Image | Nano Banana 2 |
@@ -883,4 +1074,3 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ---
 *This repository is community-maintained and not affiliated with OpenAI.*
-```
