@@ -25,7 +25,7 @@ GPT Image 2 相比 1.5 版本有明显升级：
 
 ## [点击这里查看这个提示词库的网页版本](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
-[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/gpt-image-prompt-library-screenshot.jpg" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
+[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/cyberbara-promo.png" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
 ## 目录
 - [📷 摄影与照片级写实](#-photography--photorealism)

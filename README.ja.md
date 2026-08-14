@@ -25,7 +25,7 @@ GPT Image 2 は 1.5 から大きく進化しており、次のような強みが
 
 ## [このプロンプトライブラリの Web 版を見るにはここをクリック](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
-[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/gpt-image-prompt-library-screenshot.jpg" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
+[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/cyberbara-promo.png" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
 ## 目次
 - [📷 写真・フォトリアリズム](#-photography--photorealism)

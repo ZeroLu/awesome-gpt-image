@@ -25,7 +25,7 @@ GPT Image 2는 1.5에 비해 크게 업그레이드되었으며 다음과 같은
 
 ## [이 프롬프트 라이브러리의 웹 버전을 보려면 여기를 클릭하세요](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
-[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/gpt-image-prompt-library-screenshot.jpg" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
+[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/cyberbara-promo.png" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
 ## 목차
 - [📷 사진과 포토리얼리즘](#-photography--photorealism)

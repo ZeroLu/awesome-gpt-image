@@ -25,7 +25,7 @@ GPT Image 2 représente une nette évolution par rapport à la version 1.5 :
 
 ## [Cliquez ici pour voir la version web de cette bibliothèque de prompts](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
-[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/gpt-image-prompt-library-screenshot.jpg" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
+[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/cyberbara-promo.png" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)
 
 ## Table des matières
 - [📷 Photographie et photoréalisme](#-photography--photorealism)

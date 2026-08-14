@@ -638,7 +638,7 @@ def build_top(config: dict[str, object], timestamp: str) -> list[str]:
         "\n",
         f"{config['updated']} {timestamp}\n",
         "\n",
-        '<img width="100%" alt="Awesome GPT Image 2 Header Banner" src="assets/banner/readme-header-16x9.png" />\n',
+    '<img width="100%" alt="Awesome GPT Image 2 Header Banner" src="assets/banner/readme-header-16x9.png" />\n',
         "\n",
         "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n",
         "[![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)\n",
@@ -665,7 +665,7 @@ def build_web_banner(config: dict[str, object]) -> list[str]:
     return [
         f"{config['web_heading']}\n",
         "\n",
-        '[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/gpt-image-prompt-library-screenshot.jpg" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)\n',
+    '[<img width="100%" alt="GPT Image Prompt Library Screenshot" src="assets/banner/cyberbara-promo.png" />](https://cyberbara.com/gpt-image-prompt-library?utm_source=gpt-image-banner)\n',
         "\n",
     ]
 
