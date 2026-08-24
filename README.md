@@ -1033,6 +1033,7 @@ Colorize this comic page and translate it into Chinese, placing the text in the 
 ### Community
 - Share your prompts and results on X with #GPTImage2
 - Join discussions about prompt engineering techniques
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 
 ---
 
