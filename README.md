@@ -1027,6 +1027,7 @@ Colorize this comic page and translate it into Chinese, placing the text in the 
 ## 📊 Resources
 
 ### Official Resources
+- [GPT Image 2 Official Site](https://gptimage2.asia/)
 - [OpenAI GPT Image Documentation](https://platform.openai.com/docs/guides/image-generation)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/images)
 
