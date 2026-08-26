@@ -692,7 +692,7 @@ Todo el contenido proviene de Internet. Si consideras que algo infringe tus dere
 ---
 
 ## Historial de estrellas
-[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.com/#ZeroLu/awesome-gpt-image&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.dera.page/#ZeroLu/awesome-gpt-image&Date)
 
 ---
 
