@@ -692,7 +692,7 @@ GPT-Image-2가 오늘 출시되는 이야기를 8컷 만화로 만든다.
 ---
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.com/#ZeroLu/awesome-gpt-image&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.dera.page/#ZeroLu/awesome-gpt-image&Date)
 
 ---
 
