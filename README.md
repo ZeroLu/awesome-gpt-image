@@ -8,6 +8,8 @@ Last updated on 260910 04:01:37 UTC
 [![Stars](https://img.shields.io/github/stars/ZeroLu/awesome-gpt-image?style=flat-square)](https://github.com/ZeroLu/awesome-gpt-image/stargazers)
 [![AtomGitStars](https://atomgit.com/ZeroLuAtom/awesome-gpt-image/star/badge.svg)](https://atomgit.com/ZeroLuAtom/awesome-gpt-image)
 
+<a href="https://trendshift.io/repositories/26403?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-26403" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/26403/daily?language=Python" alt="ZeroLu%2Fawesome-gpt-image | Trendshift" width="250" height="55"/></a>
+
 Languages: [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md)
 
 A curated collection of the best GPT Image 2 prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of OpenAI's GPT Image 2 model.
