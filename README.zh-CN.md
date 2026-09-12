@@ -14,6 +14,12 @@ Languages: [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中�
 
 本仓库聚焦于来自 X（Twitter）和社区的高保真图像提示词。无论你想要照片级游戏截图、风格化视觉，还是复杂的创意实验，都能在这里找到高效输入，充分释放 GPT Image 2 的能力。
 
+### 赞助
+
+| 图片 | 说明 |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | 感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可生成 160+ 张图片。图片、视频共用一套异步 API：提交任务获取 ID，通过轮询或回调获取结果。批量生成数万张图片不超时，切换模型无需修改代码。按量付费、无月费——[通过此注册链接注册即可开用](https://go.apimart.ai/gh-awesome-gpt-image)。 |
+
 ## 为什么选择 GPT Image 2？
 GPT Image 2 相比 1.5 版本有明显升级：
 - **更好的世界知识** - 对真实世界物体和场景的表达更准确

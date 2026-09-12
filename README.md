@@ -16,6 +16,12 @@ A curated collection of the best GPT Image 2 prompts and examples. Your go-to re
 
 This repository focuses on high-fidelity image prompts sourced from X (Twitter) and the community. Whether you are looking for photorealistic game screenshots, stylized aesthetics, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of GPT Image 2.
 
+### Sponsor
+
+| Image | Description |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image & video generation — GPT-Image-2 from $0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — [sign up here](https://go.apimart.ai/gh-awesome-gpt-image) to get started. |
+
 ## Why GPT Image 2?
 GPT Image 2 represents a significant upgrade from version 1.5, offering:
 - **Better world knowledge** - More accurate representations of real-world objects and scenes

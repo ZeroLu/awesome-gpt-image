@@ -14,6 +14,12 @@ Une collection sélectionnée des meilleurs prompts et exemples GPT Image 2. Une
 
 Ce dépôt se concentre sur des prompts d’image à haute fidélité issus de X (Twitter) et de la communauté. Que vous cherchiez des captures de jeu photoréalistes, des visuels stylisés ou des expérimentations créatives complexes, vous trouverez ici des entrées efficaces pour exploiter GPT Image 2 au maximum.
 
+### Sponsor
+
+| Image | Description |
+| :---: | :--- |
+| <img width="400" alt="APIMart" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Merci à APIMart de sponsoriser ce projet ! APIMart est une plateforme API abordable pour la génération d’images et de vidéos par IA : GPT-Image-2 à partir de 0,006 $ l’image, soit plus de 160 images par dollar. Une seule API asynchrone couvre les images et les vidéos : envoyez une tâche, obtenez un ID, puis récupérez le résultat par interrogation ou rappel. Traitez des dizaines de milliers d’images par lots sans délai d’expiration et changez de modèle sans modifier votre code. Paiement à l’usage, sans abonnement mensuel — [inscrivez-vous ici pour commencer](https://go.apimart.ai/gh-awesome-gpt-image). |
+
 ## Pourquoi GPT Image 2 ?
 GPT Image 2 représente une nette évolution par rapport à la version 1.5 :
 - **Meilleure compréhension du monde** - représentation plus précise des objets et scènes du monde réel
