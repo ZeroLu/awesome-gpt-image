@@ -862,7 +862,7 @@ def build_ack(config: dict[str, object]) -> list[str]:
 def build_star_history(config: dict[str, object]) -> list[str]:
     return [
         f"{config['star_heading']}\n",
-        "[![Star History Chart](https://api.star-history.com/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.com/#ZeroLu/awesome-gpt-image&Date)\n",
+        "[![Star History Chart](https://star-history.dera.page/svg?repos=ZeroLu/awesome-gpt-image&type=Date)](https://star-history.dera.page/#ZeroLu/awesome-gpt-image&Date)\n",
         "\n",
         "---\n",
         "\n",
