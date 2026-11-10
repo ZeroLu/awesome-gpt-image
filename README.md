@@ -1038,6 +1038,9 @@ Colorize this comic page and translate it into Chinese, placing the text in the 
 - [OpenAI GPT Image Documentation](https://platform.openai.com/docs/guides/image-generation)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/images)
 
+### Prompt Libraries
+- [GPT Image 2 Prompts on GPT Image Hub](https://www.gptimagehub.com/gpt-image-2-prompts) - 8,000+ GPT Image 2 prompt templates with example images, plus side-by-side comparisons with Nano Banana and Midjourney.
+
 ### Community
 - Share your prompts and results on X with #GPTImage2
 - Join discussions about prompt engineering techniques
